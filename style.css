@@ -1,0 +1,18 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+  
+    border: 2px solid black;
+    position:absolute;
+}
+.block{
+    width:100px;
+    height: 100px;
+    background-color: #ff0202;
+    position: relative;
+    transition: all .4s;
+}
